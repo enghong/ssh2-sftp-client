@@ -47,6 +47,6 @@
   "dependencies": {
     "concat-stream": "^2.0.0",
     "promise-retry": "^2.0.1",
-    "ssh2": "^1.9.0"
+    "ssh2": "git+https://github.com/enghong/ssh2.git#kimayo-encoding"
   }
 }
